@@ -1,0 +1,12 @@
+.card{
+    margin: 8px;
+    background-color: lightblue;
+    width: 300px;
+    border-radius: 0;
+}
+
+.sfondo{
+    background-color: lightgray;
+    width: fit-content;
+    padding: 50px;
+}
